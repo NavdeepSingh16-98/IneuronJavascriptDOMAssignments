@@ -48,13 +48,13 @@
 
 # Question 6
 
-![](./assets/q6.png)
+![](./assets/q6.PNG)
 
 > document.querySelector('._auxiliary_menu_558sn_31').firstChild.querySelector('input').onmouseover = function(){ this.style.backgroundColor ='red';}
 
 # Question 7
 
-![](./assets/q7.png)
+![](./assets/q7.PNG)
 
 > document.forms['hp-search-form'].elements['hp-search-input'].value = 'CSS Selectors'
 
@@ -63,7 +63,7 @@
 
 # Question 8
 
-![](./assets/q8.png)
+![](./assets/q8.PNG)
 
 > let mainDiv = document.querySelector('#SIvCob')
 
